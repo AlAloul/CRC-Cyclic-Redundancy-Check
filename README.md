@@ -1,7 +1,8 @@
 # CRC-Cyclic-Redundancy-Check
 Modeling of a simple Data Link Layer
 
-The goal of this project is the modeling of the a simple data link layer
+The goal of this project is the modeling of the simple data link layer. 
+
 The implementation consists of:
 
 Sender:
